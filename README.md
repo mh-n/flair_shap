@@ -1,2 +1,2 @@
 # flair_shap
-Test for using SHAP with FLAIR NLP
+An example of using [SHAP](https://github.com/shap/shap) with [Flair NLP](https://github.com/flairNLP/flair). 
