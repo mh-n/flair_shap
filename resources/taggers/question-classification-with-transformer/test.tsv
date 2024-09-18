@@ -1,0 +1,2015 @@
+How far is it from Denver to Aspen ?
+ - Gold: NUM
+ - Pred: NUM
+
+What county is Modesto , California in ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was Galileo ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is an atom ?
+ - Gold: DESC
+ - Pred: DESC
+
+When did Hawaii become a state ?
+ - Gold: NUM
+ - Pred: NUM
+
+How tall is the Sears Building ?
+ - Gold: NUM
+ - Pred: NUM
+
+George Bush purchased a small interest in which baseball team ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is Australia 's national flower ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Why does the moon turn orange ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is autism ?
+ - Gold: DESC
+ - Pred: DESC
+
+What city had a world fair in 1900 ?
+ - Gold: LOC
+ - Pred: LOC
+
+What person 's head is on a dime ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the average weight of a Yellow Labrador ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the first man to fly across the Pacific Ocean ?
+ - Gold: HUM
+ - Pred: HUM
+
+When did Idaho become a state ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the life expectancy for crickets ?
+ - Gold: NUM
+ - Pred: NUM
+
+What metal has the highest melting point ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who developed the vaccination against polio ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is epilepsy ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year did the Titanic sink ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the first American to walk in space ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is a biosphere ?
+ - Gold: DESC
+ - Pred: DESC
+
+What river in the US is known as the Big Muddy ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is bipolar disorder ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is cholesterol ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who developed the Macintosh computer ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is caffeine ?
+ - Gold: DESC
+ - Pred: DESC
+
+What imaginary line is halfway between the North and South Poles ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is John Wayne airport ?
+ - Gold: LOC
+ - Pred: LOC
+
+What hemisphere is the Philippines in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the average speed of the horses at the Kentucky Derby ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where are the Rocky Mountains ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are invertebrates ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the temperature at the center of the earth ?
+ - Gold: NUM
+ - Pred: NUM
+
+When did John F. Kennedy get elected as President ?
+ - Gold: NUM
+ - Pred: NUM
+
+How old was Elvis Presley when he died ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where is the Orinoco River ?
+ - Gold: LOC
+ - Pred: LOC
+
+How far is the service line from the net in tennis ?
+ - Gold: NUM
+ - Pred: NUM
+
+How much fiber should you have per day ?
+ - Gold: NUM
+ - Pred: NUM
+
+How many Great Lakes are there ?
+ - Gold: NUM
+ - Pred: NUM
+
+Material called linen is made from what plant ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Teflon ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is amitriptyline ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a shaman ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the proper name for a female walrus ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a group of turkeys called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How long did Rip Van Winkle sleep ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are triglycerides ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many liters in a gallon ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the name of the chocolate company in San Francisco ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are amphibians ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who discovered x-rays ?
+ - Gold: HUM
+ - Pred: HUM
+
+Which comedian 's signature line is `` Can we talk '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is fibromyalgia ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is done with worn or outdated flags ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does cc in engines mean ?
+ - Gold: DESC
+ - Pred: ABBR
+ -> MISMATCH!
+
+When did Elvis Presley die ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the capital of Yugoslavia ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is Milan ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the speed hummingbirds fly ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the oldest city in the United States ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was W.C. Fields ' real name ?
+ - Gold: HUM
+ - Pred: HUM
+
+What river flows between Fargo , North Dakota and Moorhead , Minnesota ?
+ - Gold: LOC
+ - Pred: LOC
+
+What do bats eat ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What state did the Battle of Bighorn take place in ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was Abraham Lincoln ?
+ - Gold: HUM
+ - Pred: HUM
+
+What do you call a newborn kangaroo ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are spider veins ?
+ - Gold: DESC
+ - Pred: DESC
+
+What day and month did John Lennon die ?
+ - Gold: NUM
+ - Pred: NUM
+
+What strait separates North America from Asia ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the population of Seattle ?
+ - Gold: NUM
+ - Pred: NUM
+
+How much was a ticket for the Titanic ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the largest city in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+What American composer wrote the music for `` West Side Story '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where is the Mall of the America ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the pH scale ?
+ - Gold: DESC
+ - Pred: DESC
+
+What type of currency is used in Australia ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How tall is the Gateway Arch in St. Louis , MO ?
+ - Gold: NUM
+ - Pred: NUM
+
+How much does the human adult female brain weigh ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the first governor of Alaska ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is a prism ?
+ - Gold: DESC
+ - Pred: DESC
+
+When was the first liver transplant ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was elected president of South Africa in 1994 ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the population of China ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was Rosa Parks born ?
+ - Gold: NUM
+ - Pred: NUM
+
+Why is a ladybug helpful ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is amoxicillin ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who was the first female United States Representative ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are xerophytes ?
+ - Gold: DESC
+ - Pred: DESC
+
+What country did Ponce de Leon come from ?
+ - Gold: LOC
+ - Pred: LOC
+
+The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is desktop publishing ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the temperature of the sun 's surface ?
+ - Gold: NUM
+ - Pred: NUM
+
+What year did Canada join the United Nations ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the oldest university in the US ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where is Prince Edward Island ?
+ - Gold: LOC
+ - Pred: LOC
+
+Mercury , what year was it discovered ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is cryogenics ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are coral reefs ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the longest major league baseball-winning streak ?
+ - Gold: ENTY
+ - Pred: NUM
+ -> MISMATCH!
+
+What is neurology ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who invented the calculator ?
+ - Gold: HUM
+ - Pred: HUM
+
+How do you measure earthquakes ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is Duke Ellington ?
+ - Gold: HUM
+ - Pred: HUM
+
+What county is Phoenix , AZ in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is a micron ?
+ - Gold: DESC
+ - Pred: DESC
+
+The sun 's core , what is the temperature ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the Ohio state bird ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+When were William Shakespeare 's twins born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the highest dam in the U.S. ?
+ - Gold: LOC
+ - Pred: LOC
+
+What color is a poison arrow frog ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is acupuncture ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the length of the coastline of the state of Alaska ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the name of Neil Armstrong 's wife ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is Hawaii 's state flower ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who won Ms. American in 1989 ?
+ - Gold: HUM
+ - Pred: HUM
+
+When did the Hindenberg crash ?
+ - Gold: NUM
+ - Pred: NUM
+
+What mineral helps prevent osteoporosis ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What was the last year that the Chicago Cubs won the World Series ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where is Perth ?
+ - Gold: LOC
+ - Pred: LOC
+
+What year did WWII begin ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the diameter of a golf ball ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is an eclipse ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who discovered America ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the earth 's diameter ?
+ - Gold: NUM
+ - Pred: NUM
+
+Which president was unmarried ?
+ - Gold: HUM
+ - Pred: HUM
+
+How wide is the Milky Way galaxy ?
+ - Gold: NUM
+ - Pred: NUM
+
+During which season do most thunderstorms occur ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is Wimbledon ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the gestation period for a cat ?
+ - Gold: NUM
+ - Pred: NUM
+
+How far is a nautical mile ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?
+ - Gold: HUM
+ - Pred: HUM
+
+What does target heart rate mean ?
+ - Gold: DESC
+ - Pred: NUM
+ -> MISMATCH!
+
+What was the first satellite to go into space ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is foreclosure ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the major fault line near Kentucky ?
+ - Gold: ENTY
+ - Pred: LOC
+ -> MISMATCH!
+
+Where is the Holland Tunnel ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who wrote the hymn `` Amazing Grace '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What position did Willie Davis play in baseball ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are platelets ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is severance pay ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the name of Roy Roger 's dog ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where are the National Archives ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is a baby turkey called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is poliomyelitis ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the longest bone in the human body ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who is a German philosopher ?
+ - Gold: HUM
+ - Pred: HUM
+
+What were Christopher Columbus ' three ships ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does Phi Beta Kappa mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is nicotine ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is another name for vitamin B1 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who discovered radium ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are sunspots ?
+ - Gold: DESC
+ - Pred: DESC
+
+When was Algeria colonized ?
+ - Gold: NUM
+ - Pred: NUM
+
+What baseball team was the first to make numbers part of their uniform ?
+ - Gold: HUM
+ - Pred: HUM
+
+What continent is Egypt on ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the capital of Mongolia ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is nanotechnology ?
+ - Gold: DESC
+ - Pred: DESC
+
+In the late 1700 's British convicts were used to populate which colony ?
+ - Gold: LOC
+ - Pred: LOC
+
+What state is the geographic center of the lower 48 states ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is an obtuse angle ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are polymers ?
+ - Gold: DESC
+ - Pred: DESC
+
+When is hurricane season in the Caribbean ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where is the volcano Mauna Loa ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is another astronomic term for the Northern Lights ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What peninsula is Spain part of ?
+ - Gold: LOC
+ - Pred: LOC
+
+When was Lyndon B. Johnson born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is acetaminophen ?
+ - Gold: DESC
+ - Pred: DESC
+
+What state has the least amount of rain per year ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who founded American Red Cross ?
+ - Gold: HUM
+ - Pred: HUM
+
+What year did the Milwaukee Braves become the Atlanta Braves ?
+ - Gold: NUM
+ - Pred: NUM
+
+How fast is alcohol absorbed ?
+ - Gold: NUM
+ - Pred: NUM
+
+When is the summer solstice ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is supernova ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the Shawnee National Forest ?
+ - Gold: LOC
+ - Pred: LOC
+
+What U.S. state 's motto is `` Live free or Die '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is the Lourve ?
+ - Gold: LOC
+ - Pred: LOC
+
+When was the first stamp issued ?
+ - Gold: NUM
+ - Pred: NUM
+
+What primary colors do you mix to make orange ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How far is Pluto from the sun ?
+ - Gold: NUM
+ - Pred: NUM
+
+What body of water are the Canary Islands in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is neuropathy ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the Euphrates River ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is cryptography ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is natural gas composed of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who is the Prime Minister of Canada ?
+ - Gold: HUM
+ - Pred: HUM
+
+What French ruler was defeated at the battle of Waterloo ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is leukemia ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where did Howard Hughes die ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the birthstone for June ?
+ - Gold: ENTY
+ - Pred: DESC
+ -> MISMATCH!
+
+What is the sales tax in Minnesota ?
+ - Gold: ENTY
+ - Pred: NUM
+ -> MISMATCH!
+
+What is the distance in miles from the earth to the sun ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the average life span for a chicken ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was the first Wal-Mart store opened ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is relative humidity ?
+ - Gold: DESC
+ - Pred: DESC
+
+What city has the zip code of 35824 ?
+ - Gold: LOC
+ - Pred: LOC
+
+What currency is used in Algeria ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who invented the hula hoop ?
+ - Gold: HUM
+ - Pred: HUM
+
+What was the most popular toy in 1957 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is pastrami made of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the name of the satellite that the Soviet Union sent into space in 1957 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What city 's newspaper is called `` The Enquirer '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who invented the slinky ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the animals that don 't have backbones called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the melting point of copper ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where is the volcano Olympus Mons located ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was the 23rd president of the United States ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the average body temperature ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does a defibrillator do ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the effect of acid rain ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year did the United States abolish the draft ?
+ - Gold: NUM
+ - Pred: NUM
+
+How fast is the speed of light ?
+ - Gold: NUM
+ - Pred: NUM
+
+What province is Montreal in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What New York City structure is also known as the Twin Towers ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is fungus ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the most frequently spoken language in the Netherlands ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is sodium chloride ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are the spots on dominoes called ?
+ - Gold: ENTY
+ - Pred: LOC
+ -> MISMATCH!
+
+How many pounds in a ton ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is influenza ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is ozone depletion ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year was the Mona Lisa painted ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does `` Sitting Shiva '' mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the electrical output in Madrid , Spain ?
+ - Gold: ENTY
+ - Pred: NUM
+ -> MISMATCH!
+
+Which mountain range in North America stretches from Maine to Georgia ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is plastic made of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the population of Nigeria ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does your spleen do ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the Grand Canyon ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who invented the telephone ?
+ - Gold: HUM
+ - Pred: HUM
+
+What year did the U.S. buy Alaska ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the name of the leader of Ireland ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is phenylalanine ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many gallons of water are there in a cubic foot ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are the two houses of the Legislative branch ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is sonar ?
+ - Gold: DESC
+ - Pred: DESC
+
+In Poland , where do most people live ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is phosphorus ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the location of the Sea of Tranquility ?
+ - Gold: LOC
+ - Pred: LOC
+
+How fast is sound ?
+ - Gold: NUM
+ - Pred: NUM
+
+What French province is cognac produced in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is Valentine 's Day ?
+ - Gold: DESC
+ - Pred: NUM
+ -> MISMATCH!
+
+What causes gray hair ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is hypertension ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is bandwidth ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the longest suspension bridge in the U.S. ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is a parasite ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is home equity ?
+ - Gold: DESC
+ - Pred: DESC
+
+What do meteorologists do ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the criterion for being legally blind ?
+ - Gold: ENTY
+ - Pred: DESC
+ -> MISMATCH!
+
+Who is the tallest man in the world ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the twin cities ?
+ - Gold: LOC
+ - Pred: DESC
+ -> MISMATCH!
+
+What did Edward Binney and Howard Smith invent in 1903 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the statue of liberty made of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is pilates ?
+ - Gold: DESC
+ - Pred: DESC
+
+What planet is known as the `` red '' planet ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the depth of the Nile river ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the colorful Korean traditional dress called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Mardi Gras ?
+ - Gold: DESC
+ - Pred: DESC
+
+Mexican pesos are worth what in U.S. dollars ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the first African American to play for the Brooklyn Dodgers ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was the first Prime Minister of Canada ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many Admirals are there in the U.S. Navy ?
+ - Gold: NUM
+ - Pred: NUM
+
+What instrument did Glenn Miller play ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How old was Joan of Arc when she died ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the word fortnight mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is dianetics ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the capital of Ethiopia ?
+ - Gold: LOC
+ - Pred: LOC
+
+For how long is an elephant pregnant ?
+ - Gold: NUM
+ - Pred: NUM
+
+How did Janice Joplin die ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the primary language in Iceland ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the difference between AM radio stations and FM radio stations ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is osteoporosis ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who was the first woman governor in the U.S. ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is peyote ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the esophagus used for ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is viscosity ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year did Oklahoma become a state ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the abbreviation for Texas ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is a mirror made out of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where on the body is a mortarboard worn ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was J.F.K. 's wife 's name ?
+ - Gold: HUM
+ - Pred: HUM
+
+What does I.V. stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is the chunnel ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is Hitler buried ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are antacids ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is pulmonary fibrosis ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are Quaaludes ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is naproxen ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is strep throat ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the largest city in the U.S. ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is foot and mouth disease ?
+ - Gold: ENTY
+ - Pred: DESC
+ -> MISMATCH!
+
+What is the life expectancy of a dollar bill ?
+ - Gold: NUM
+ - Pred: NUM
+
+What do you call a professional map drawer ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are Aborigines ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is hybridization ?
+ - Gold: DESC
+ - Pred: DESC
+
+What color is indigo ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How old do you have to be in order to rent a car in Italy ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does a barometer measure ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What color is a giraffe 's tongue ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does USPS stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What year did the NFL go on strike ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is solar wind ?
+ - Gold: DESC
+ - Pred: DESC
+
+What date did Neil Armstrong land on the moon ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was Hiroshima bombed ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where is the Savannah River ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was the first woman killed in the Vietnam War ?
+ - Gold: HUM
+ - Pred: HUM
+
+What planet has the strongest magnetic field of all the planets ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who is the governor of Alaska ?
+ - Gold: HUM
+ - Pred: HUM
+
+What year did Mussolini seize power in Italy ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the capital of Persia ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is the Eiffel Tower ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many hearts does an octopus have ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is pneumonia ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the deepest lake in the US ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is a fuel cell ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who was the first U.S. president to appear on TV ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where is the Little League Museum ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are the two types of twins ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the brightest star ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is diabetes ?
+ - Gold: DESC
+ - Pred: DESC
+
+When was President Kennedy shot ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is TMJ ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What color is yak milk ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What date was Dwight D. Eisenhower born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the technical term ISDN mean ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+Why is the sun yellow ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the conversion rate between dollars and pounds ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was Abraham Lincoln born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the Milky Way ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is mold ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year was Mozart born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is a group of frogs called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the name of William Penn 's ship ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the melting point of gold ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the street address of the White House ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is semolina ?
+ - Gold: DESC
+ - Pred: DESC
+
+What fruit is Melba sauce made from ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Ursa Major ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the percentage of water content in the human body ?
+ - Gold: NUM
+ - Pred: NUM
+
+How much does water weigh ?
+ - Gold: NUM
+ - Pred: NUM
+
+What was President Lyndon Johnson 's reform program called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the murder rate in Windsor , Ontario ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who is the only president to serve 2 non-consecutive terms ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the population of Australia ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who painted the ceiling of the Sistine Chapel ?
+ - Gold: HUM
+ - Pred: HUM
+
+Name a stimulant .
+ - Gold: ENTY
+ - Pred: HUM
+ -> MISMATCH!
+
+What is the effect of volcanoes on the climate ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year did the Andy Griffith show begin ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is acid rain ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the date of Mexico 's independence ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the location of Lake Champlain ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the Illinois state flower ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Maryland 's state bird ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is quicksilver ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who wrote `` The Divine Comedy '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the speed of light ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the width of a football field ?
+ - Gold: NUM
+ - Pred: NUM
+
+Why in tennis are zero points called love ?
+ - Gold: DESC
+ - Pred: DESC
+
+What kind of dog was Toto in the Wizard of Oz ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a thyroid ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does ciao mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the only artery that carries blue blood from the heart to the lungs ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How often does Old Faithful erupt at Yellowstone National Park ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is acetic acid ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the elevation of St. Louis , MO ?
+ - Gold: NUM
+ - Pred: NUM
+
+What color does litmus paper turn when it comes into contact with a strong acid ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the colors of the German flag ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the Moulin Rouge ?
+ - Gold: DESC
+ - Pred: DESC
+
+What soviet seaport is on the Black Sea ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the atomic weight of silver ?
+ - Gold: NUM
+ - Pred: NUM
+
+What currency do they use in Brazil ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are pathogens ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is mad cow disease ?
+ - Gold: DESC
+ - Pred: DESC
+
+Name a food high in zinc .
+ - Gold: ENTY
+ - Pred: ENTY
+
+When did North Carolina enter the union ?
+ - Gold: NUM
+ - Pred: NUM
+
+Where do apple snails live ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are ethics ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does CPR stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is an annuity ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who killed John F. Kennedy ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was the first vice president of the U.S. ?
+ - Gold: HUM
+ - Pred: HUM
+
+What birthstone is turquoise ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who was the first US President to ride in an automobile to his inauguration ?
+ - Gold: HUM
+ - Pred: HUM
+
+How old was the youngest president of the United States ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was Ulysses S. Grant born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is Muscular Dystrophy ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who lived in the Neuschwanstein castle ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is propylene glycol ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a panic disorder ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who invented the instant Polaroid camera ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is a carcinogen ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a baby lion called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the world 's population ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is nepotism ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is die-casting ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is myopia ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the sales tax rate in New York ?
+ - Gold: NUM
+ - Pred: NUM
+
+Developing nations comprise what percentage of the world 's population ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the fourth highest mountain in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is Shakespeare 's nickname ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the heaviest naturally occurring element ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+When is Father 's Day ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the acronym NASA stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+How long is the Columbia River in miles ?
+ - Gold: NUM
+ - Pred: NUM
+
+What city 's newspaper is called `` The Star '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is carbon dioxide ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the Mason/Dixon line ?
+ - Gold: LOC
+ - Pred: LOC
+
+When was the Boston tea party ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is metabolism ?
+ - Gold: DESC
+ - Pred: DESC
+
+Which U.S.A. president appeared on `` Laugh-In '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are cigarettes made of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the capital of Zimbabwe ?
+ - Gold: LOC
+ - Pred: LOC
+
+What does NASA stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is the state flower of Michigan ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are semiconductors ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is nuclear power ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a tsunami ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is the congressman from state of Texas on the armed forces committee ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was president in 1913 ?
+ - Gold: HUM
+ - Pred: HUM
+
+When was the first kidney transplant ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are Canada 's two territories ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was the name of the plane Lindbergh flew solo across the Atlantic ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is genocide ?
+ - Gold: DESC
+ - Pred: DESC
+
+What continent is Argentina on ?
+ - Gold: LOC
+ - Pred: LOC
+
+What monastery was raided by Vikings in the late eighth century ?
+ - Gold: ENTY
+ - Pred: LOC
+ -> MISMATCH!
+
+What is an earthquake ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the tallest roller coaster located ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are enzymes ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who discovered oxygen ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is bangers and mash ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the name given to the Tiger at Louisiana State University ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where are the British crown jewels kept ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was the first person to reach the North Pole ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is an ulcer ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is vertigo ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the spirometer test ?
+ - Gold: DESC
+ - Pred: DESC
+
+When is the official first day of summer ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the abbreviation SOS mean ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is the smallest bird in Britain ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who invented Trivial Pursuit ?
+ - Gold: HUM
+ - Pred: HUM
+
+What gasses are in the troposphere ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Which country has the most water pollution ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the scientific name for elephant ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who is the actress known for her role in the movie `` Gypsy '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What breed of hunting dog did the Beverly Hillbillies own ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the rainiest place on Earth ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was the first African American to win the Nobel Prize in literature ?
+ - Gold: HUM
+ - Pred: HUM
+
+When is St. Patrick 's Day ?
+ - Gold: NUM
+ - Pred: NUM
+
+What was FDR 's dog 's name ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What colors need to be mixed to get the color pink ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the most popular sport in Japan ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the active ingredient in baking soda ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+When was Thomas Jefferson born ?
+ - Gold: NUM
+ - Pred: NUM
+
+How cold should a refrigerator be ?
+ - Gold: NUM
+ - Pred: NUM
+
+When was the telephone invented ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the most common eye color ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where was the first golf course in the United States ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is schizophrenia ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is angiotensin ?
+ - Gold: DESC
+ - Pred: DESC
+
+What did Jesse Jackson organize ?
+ - Gold: HUM
+ - Pred: ENTY
+ -> MISMATCH!
+
+What is New York 's state bird ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the National Park in Utah ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is Susan B. Anthony 's birthday ?
+ - Gold: NUM
+ - Pred: NUM
+
+In which state would you find the Catskill Mountains ?
+ - Gold: LOC
+ - Pred: LOC
+
+What do you call a word that is spelled the same backwards and forwards ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are pediatricians ?
+ - Gold: DESC
+ - Pred: DESC
+
+What chain store is headquartered in Bentonville , Arkansas ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are solar cells ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is compounded interest ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are capers ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is an antigen ?
+ - Gold: DESC
+ - Pred: DESC
+
+What currency does Luxembourg use ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the population of Venezuela ?
+ - Gold: NUM
+ - Pred: NUM
+
+What type of polymer is used for bulletproof vests ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What currency does Argentina use ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a thermometer ?
+ - Gold: DESC
+ - Pred: DESC
+
+What Canadian city has the largest population ?
+ - Gold: LOC
+ - Pred: LOC
+
+What color are crickets ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Which country gave New York the Statue of Liberty ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was the name of the first U.S. satellite sent into space ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What precious stone is a form of pure carbon ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What kind of gas is in a fluorescent bulb ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is rheumatoid arthritis ?
+ - Gold: DESC
+ - Pred: DESC
+
+What river runs through Rowe , Italy ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is cerebral palsy ?
+ - Gold: DESC
+ - Pred: DESC
+
+What city is also known as `` The Gateway to the West '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+How far away is the moon ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the source of natural gas ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is pectin ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is bio-diversity ?
+ - Gold: DESC
+ - Pred: DESC
+
+What 's the easiest way to remove wallpaper ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What year did the Titanic start on its journey ?
+ - Gold: NUM
+ - Pred: NUM
+
+How much of an apple is water ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the 22nd President of the US ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the money they use in Zambia ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many feet in a mile ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the birthstone of October ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is e-coli ?
+ - Gold: DESC
+ - Pred: DESC
+

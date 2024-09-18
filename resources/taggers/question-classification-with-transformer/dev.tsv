@@ -1,0 +1,2207 @@
+What films featured the character Popeye Doyle ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where do the adventures of `` The Swiss Family Robinson '' take place ?
+ - Gold: LOC
+ - Pred: LOC
+
+What ISPs exist in the Caribbean ?
+ - Gold: HUM
+ - Pred: ENTY
+ -> MISMATCH!
+
+What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .
+ - Gold: LOC
+ - Pred: LOC
+
+What is the nickname for the state of Mississippi ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the meaning of Jesus ?
+ - Gold: DESC
+ - Pred: DESC
+
+Which of the following was Rhodes Scholar ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the world 's four oceans ?
+ - Gold: LOC
+ - Pred: LOC
+
+In what medium is Stuart Hamblen considered to be the first singing cowboy ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How long does it take for your blood to make one complete trip through the body ?
+ - Gold: NUM
+ - Pred: NUM
+
+When did the Bounty mutiny take place ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who earns their money the hard way ?
+ - Gold: HUM
+ - Pred: HUM
+
+In what year did Thatcher become prime minister ?
+ - Gold: NUM
+ - Pred: NUM
+
+Why do some clothing labels say `` Use a nonchlorine bleach '' ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where can I find pictorial directions on how to build a very simple treehouse ?
+ - Gold: LOC
+ - Pred: LOC
+
+What explorer was nicknamed Iberia 's Pilot ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the daily requirement of folic acid for an expectant mother ?
+ - Gold: DESC
+ - Pred: DESC
+
+How do you correctly say the word ` qigong ' ?
+ - Gold: DESC
+ - Pred: DESC
+
+What diminutive American female gymnast stole the show at the 1984 Olympics ?
+ - Gold: HUM
+ - Pred: HUM
+
+CNN is the abbreviation for what ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What are other ways of getting stretch marks besides pregnancy , weight loss , and weight lifting ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the official animal of Canada ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who was the founding member of the Pink Floyd band ?
+ - Gold: HUM
+ - Pred: HUM
+
+How do you get to the top of the Eiffel Tower ?
+ - Gold: DESC
+ - Pred: DESC
+
+What city did the Flintstones live in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the abbreviation for micro ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+How many years ago did the ship Titanic sink ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who is the man behind the pig-the man who pulls the strings and speaks for Miss Piggy ?
+ - Gold: HUM
+ - Pred: HUM
+
+How does a copier work ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is Dudley Do-Right 's horse 's name ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the use of a 24-hour clock instead of a 12-hour clock ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What golfing accessory was patented by George Grant on December 12
+ - Gold: ENTY
+ - Pred: ENTY
+
+How is it correct to say ` qigong ' ?
+ - Gold: DESC
+ - Pred: DESC
+
+What President lived at 219 North Delaware Street , Independence , Missouri ?
+ - Gold: HUM
+ - Pred: HUM
+
+What killed Bob Marley ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who danced into stardom with Fred Astaire in 1941 's You 'll Never Get Rich ?
+ - Gold: HUM
+ - Pred: HUM
+
+What movie did Madilyn Kahn star in with Gene Wilder ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What U.S. city is The Queen of the Pacific ?
+ - Gold: LOC
+ - Pred: LOC
+
+What fraction of a beaver 's life is spent swimming ?
+ - Gold: NUM
+ - Pred: NUM
+
+What do I need to do to take my dog with me to live in Dominica , West Indies for a year ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is the president of Stanford University ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many colleges are in Wyoming ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are the Nordic nations ?
+ - Gold: LOC
+ - Pred: DESC
+ -> MISMATCH!
+
+Where did the myth of Santa Claus originate ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is Procter & Gamble based in the U.S. ?
+ - Gold: LOC
+ - Pred: LOC
+
+What does ribavirin consist of ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many hearts does an octopus have ?
+ - Gold: NUM
+ - Pred: NUM
+
+What 's approaching when a cyclist shouts : `` Oil '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What percentage of the body is muscle ?
+ - Gold: NUM
+ - Pred: NUM
+
+Why do n't you guys have some sort of contest where you ask a question and whoever finds the answers wins a prize ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is Coronado ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was the first Holy Roman Emperor ?
+ - Gold: HUM
+ - Pred: HUM
+
+Name the organization that is presided by a Security Council .
+ - Gold: HUM
+ - Pred: HUM
+
+Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+Whom did the Chicago Bulls beat in the 1993 championship ?
+ - Gold: HUM
+ - Pred: HUM
+
+When was the first American encyclopedia published ?
+ - Gold: NUM
+ - Pred: NUM
+
+Which is the wealthiest country in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was the name of the daughter of the Virginia chief Powhatan that married John Rolfe ?
+ - Gold: HUM
+ - Pred: HUM
+
+Name the disposable razor that `` costs about 19 cents . ''
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Bombay duck ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the wingspan of a condor ?
+ - Gold: NUM
+ - Pred: NUM
+
+What color were their horses ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many Americans fought for the British in the American Revolution ?
+ - Gold: NUM
+ - Pred: NUM
+
+What percent liked Thatcher after she had been in power for a decade ?
+ - Gold: NUM
+ - Pred: NUM
+
+How do I start a bank ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is prepared mustard ?
+ - Gold: DESC
+ - Pred: DESC
+
+What type of hunting are retrievers used for ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Colin Powell best known for ?
+ - Gold: DESC
+ - Pred: DESC
+
+What age followed the Bronze Age ?
+ - Gold: ENTY
+ - Pred: NUM
+ -> MISMATCH!
+
+What party was Winston Churchill a member of ?
+ - Gold: HUM
+ - Pred: HUM
+
+Why are electric cars less efficient in the northeast than in California ?
+ - Gold: DESC
+ - Pred: DESC
+
+What explorers followed Columbus to the Americas ?
+ - Gold: HUM
+ - Pred: HUM
+
+When was the San Francisco fire ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is a fear of food ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the word for broken glass or sharp rocks embedded in cement on top of a wall ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What organization was founded by the Rev. Jerry Falwell ?
+ - Gold: HUM
+ - Pred: HUM
+
+What 's the longest river in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+What 's the sacred river of India ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the difference between a median and a mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What plant is rum made from ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What U.S. state records the least rainfall ?
+ - Gold: LOC
+ - Pred: LOC
+
+What was archy , and mehitabel ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are the chemicals used in glowsticks ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is Australia Day ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who replaced Bert Parks as the host of The Miss America Pageant ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the AIM-54C Phoenix ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many astronauts manned each Project Mercury flight ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is Black Hills , South Dakota most famous for ?
+ - Gold: DESC
+ - Pred: DESC
+
+What 1966 boob tube bomb took astronauts back to prehistoric times ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What holidays are celebrated in Ireland ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a fear of sleep ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is an example of an actual case of using the Fourteenth Amendment ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What is the probability that at least 2 out of 25 people will have the same birthday ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is Candlemas Day ?
+ - Gold: DESC
+ - Pred: DESC
+
+What province is Edmonton located in ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who did Sonny Liston succeed as world heavyweight boxing champion ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is Martin Luther King Jr. 's real birthday ?
+ - Gold: NUM
+ - Pred: NUM
+
+Name the various super-teams to which the Angel has belonged .
+ - Gold: HUM
+ - Pred: HUM
+
+What is the origin of thank you notes ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is Jell-O made from ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who did Jackie Kennedy commission to write The Death of a President ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the difference between microprocessors & microcontrollers ?
+ - Gold: DESC
+ - Pred: DESC
+
+How much does it cost , average or whatever is available , to produce and send junk mail catalogues in the US ? , DT CD NN NN ,
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the Secretary of War in the Civil War during the Battle of Gettysburg ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is typhoid fever ?
+ - Gold: DESC
+ - Pred: DESC
+
+What year did Rossetti paint `` Beata Beatrix '' ?
+ - Gold: NUM
+ - Pred: NUM
+
+Name the On Stage character whose face was never seen .
+ - Gold: HUM
+ - Pred: HUM
+
+What country and western singer is known as The Silver Fox ?
+ - Gold: LOC
+ - Pred: HUM
+ -> MISMATCH!
+
+What kind of hat does Bat Masterson wear ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does the abbreviation cwt. ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+How much waste does an average dairy cow produce in a day ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is website of the International Court of Justice ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where are 8 of the 10 highest mountains in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where can I look at a perpetual calendar ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is pandoro ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is one of the cities that the University of Minnesota is located in ?
+ - Gold: LOC
+ - Pred: LOC
+
+How do I install a tile floor ?
+ - Gold: DESC
+ - Pred: DESC
+
+Name four famous cartoon cats .
+ - Gold: ENTY
+ - Pred: ENTY
+
+What was a Mae West on a World War II battleship ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the former name of Zimbabwe ?
+ - Gold: ENTY
+ - Pred: LOC
+ -> MISMATCH!
+
+What movie told of Anna Anderson 's claim to be a Russian czar 's daughter ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the name of the Jewish alphabet ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who is the best known villain of the 165 Gunpowder Plot ?
+ - Gold: HUM
+ - Pred: HUM
+
+What city is often called The Insurance Capital of the World ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who portrayed Dracula in Hammer Studios ' films ?
+ - Gold: HUM
+ - Pred: HUM
+
+What 's the most abundant element in the sun ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What U.S. state is Dixville Notch in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the protagonist 's name in Dostoevski 's `` The Idiot '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+Aspartame is also known as what ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a ` borrow pit ' ?
+ - Gold: DESC
+ - Pred: DESC
+
+What 2th-century fictional character attends Pencey Prep School ?
+ - Gold: HUM
+ - Pred: HUM
+
+How much pizza do Americans eat in a day ?
+ - Gold: NUM
+ - Pred: NUM
+
+What kind of puzzle first appeared in the U.S. in the New York World on December 21 , 1913 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Why are there Braille things on the ATM machines that people drive through ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the life span of the average monkey ?
+ - Gold: NUM
+ - Pred: NUM
+
+What will happen when sodium is put in water ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the chance of conceiving quadruplets ?
+ - Gold: NUM
+ - Pred: NUM
+
+How do I increase my biceps ' size ?
+ - Gold: DESC
+ - Pred: DESC
+
+How is the element strontium purified ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who took over as conductor of the Boston Pops after Arthur Fiedler 's long reign ?
+ - Gold: HUM
+ - Pred: HUM
+
+What Nantucket shipwreck killed more divers exploring it than the 52 people it sank with ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many people died because of a smoking problem in 1997 ?
+ - Gold: NUM
+ - Pred: NUM
+
+What Honeymooners actress did Television magazine name as 1953 's most promising star ?
+ - Gold: HUM
+ - Pred: HUM
+
+How can someone become a federal agent ?
+ - Gold: DESC
+ - Pred: DESC
+
+What kind of dog is Scooby Doo ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the function of the appendix ?
+ - Gold: DESC
+ - Pred: DESC
+
+What department store heir is responsible for raising a three-ton safe from the underwater wreckage of the Andrea Doria ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many people live in the Falklands ?
+ - Gold: NUM
+ - Pred: NUM
+
+What document did President Andrew Johnson want a copy of placed under his head upon his burial ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How much money was the minimum wage in 1991 ?
+ - Gold: NUM
+ - Pred: NUM
+
+How do you recognize anorexia ?
+ - Gold: DESC
+ - Pred: DESC
+
+When was Queen Victoria born ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the federal minimum wage ?
+ - Gold: NUM
+ - Pred: NUM
+
+Mississippi is nicknamed what ?
+ - Gold: ENTY
+ - Pred: LOC
+ -> MISMATCH!
+
+What kind of weapons were used in Medieval warfare ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How does a scientific calculator work ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many U.S. presidents were assassinated during Queen Victoria 's reign ?
+ - Gold: NUM
+ - Pred: NUM
+
+How do I write to my Congressman ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who penned : `` Neither a borrower nor a lender be '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What was the nickname of Frederick I , Holy Roman Emperor and King of Germany ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many cubic feet of space does a gallon of water occupy ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the average hourly rate of American workers ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was the first governor of West Virginia ?
+ - Gold: HUM
+ - Pred: HUM
+
+When it 's time to relax , what one beer stands clear ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What constellation contains the twins Castor and Pollux ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where can I find a large list of 5 to 6 letter words ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who started the Dominos Pizza chain ?
+ - Gold: HUM
+ - Pred: HUM
+
+What 's another word that means `` knows all '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What river does the Grand Coulee Dam dam ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the origin of the word Ozymandias ?
+ - Gold: DESC
+ - Pred: DESC
+
+What four U.S. states have active volcanoes ?
+ - Gold: LOC
+ - Pred: LOC
+
+What year were the Olympic Games played in where Nadia Comaneci became popular ?
+ - Gold: NUM
+ - Pred: NUM
+
+How do you clean up a cache ?
+ - Gold: DESC
+ - Pred: DESC
+
+What kind of tree graces Lebanon 's flag ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where did bocci originate ?
+ - Gold: LOC
+ - Pred: LOC
+
+How does light travel through the void of space if there is no medium for it to ` wave ' or ` pulse ' .
+ - Gold: DESC
+ - Pred: DESC
+
+How can I easily remove red wine stains from t-shirts ?
+ - Gold: DESC
+ - Pred: DESC
+
+How do you write MLA style bibliographies for an Internet source ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the frequency of VHF ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the policeman become in the Canadian edition of Monopoly ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is digitalis ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is celebrated during the week of February 21-27 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Which two products use a tiger as their symbol ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What did FCC chairman Newton Minow declare TV to be on May 9 , 1961 ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What is the meaning of thalassemia ?
+ - Gold: DESC
+ - Pred: DESC
+
+What poet wrote : `` ... I have promises to keep , and miles to go before I sleep '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is ethylene ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a fear of pregnancy ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How long do flies live ?
+ - Gold: NUM
+ - Pred: NUM
+
+What islands got their name from the Spanish baja mar , meaning shallow water ?
+ - Gold: LOC
+ - Pred: LOC
+
+What 's the official language of Algeria ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many times larger than life size is the Statue of Liberty ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the name of the country which Hitler ruled ?
+ - Gold: LOC
+ - Pred: LOC
+
+What group kidnaped Patricia Hearst ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the dot on an the letter i called ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the capital of Iowa ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who asked you to do the Loco-Motion with her in 1962 ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who made the first surfboard ?
+ - Gold: HUM
+ - Pred: HUM
+
+Why do some people have two different color eyes ?
+ - Gold: DESC
+ - Pred: DESC
+
+What TV family sometimes buys eclairs from Nelson 's Bakery ?
+ - Gold: HUM
+ - Pred: HUM
+
+How does a small businessman contact the Good Humor Ice Cream company to do business with them ?
+ - Gold: DESC
+ - Pred: DESC
+
+What Sinatra hit did he dooby dooby do in ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How do you get a girl to have sex with you ?
+ - Gold: DESC
+ - Pred: DESC
+
+What was called the world 's largest department store ?
+ - Gold: HUM
+ - Pred: LOC
+ -> MISMATCH!
+
+How many different vegetation zones are there ?
+ - Gold: NUM
+ - Pred: NUM
+
+What happens when lightning strikes a body of water ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does e=mc2 mean ?
+ - Gold: DESC
+ - Pred: ABBR
+ -> MISMATCH!
+
+What are different products of petroleum ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What causes asthma ?
+ - Gold: DESC
+ - Pred: DESC
+
+How do I register a trade name in North Carolina ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is Natick ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the origin of the city `` Corpus Christi '' ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many children does Ray Davies of the Kinks have ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was Garrett Morgan married to ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the difference between terry cloth and French terry ?
+ - Gold: DESC
+ - Pred: DESC
+
+What are the environmental influences on plant genetics ?
+ - Gold: DESC
+ - Pred: DESC
+
+Which area produces the least acidic coffee ?
+ - Gold: LOC
+ - Pred: LOC
+
+What fuel do airplanes use ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where have the most dinosaur remains been found ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many American soldiers have died for their country to date ?
+ - Gold: NUM
+ - Pred: NUM
+
+What state is Niagara Falls located in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is narcolepsy ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is the Orange Bowl ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where is the Smithsonian Institute located ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many grooves are on a dime ?
+ - Gold: NUM
+ - Pred: NUM
+
+What first-aid product `` Helps the hurt stop hurting '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does the Greek word polis mean , as in Minneapolis ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who says , `` If you don 't look good , we don 't look good '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+When was the internal combustion engine developed ?
+ - Gold: NUM
+ - Pred: NUM
+
+Which is the most-used computer program ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What amount of money did the Philippine ex-dictator Marcos steal from the treasury ?
+ - Gold: NUM
+ - Pred: NUM
+
+What film featured Shirley MacLaine as a prostitute and Jack Lemmon as a pimp ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What city is near the mouth of the Amazon ?
+ - Gold: LOC
+ - Pred: LOC
+
+What civilization invented the arch ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the names of Jack 's original roommates on Three 's Company ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the definition of hazmat ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is Stephen Hawking ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the difference between optical and digital video ?
+ - Gold: DESC
+ - Pred: DESC
+
+What 's new in the postal world in 1999 ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+Name a civil war battlefield .
+ - Gold: LOC
+ - Pred: LOC
+
+When do you plant winter wheat ?
+ - Gold: NUM
+ - Pred: NUM
+
+What will a compass do in outer space ?
+ - Gold: DESC
+ - Pred: DESC
+
+How is water treated to make it safe to drink ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does a woman want ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is your favorite color ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the Poconos ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does caliente mean , in English ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+When did Nostradamus believe World War III would begin ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who asked the musical question : `` Have you ever been to electric lady land ? ''
+ - Gold: HUM
+ - Pred: HUM
+
+Who invented the Wonderbra ?
+ - Gold: HUM
+ - Pred: HUM
+
+What 's a short ton ?
+ - Gold: DESC
+ - Pred: DESC
+
+What country has the port of Haifa ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the main ingredient of yogurt ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where is Romania located ?
+ - Gold: LOC
+ - Pred: LOC
+
+What Chilean president was killed in a 1973 coup d 'etat ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the first names of the famous husband-and-wife acting team of Lunt and Fontanne ?
+ - Gold: HUM
+ - Pred: HUM
+
+What cable network bills itself as `` the family entertainer '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+Why do people get goosebumps when they have something emotional happen to them , like when they hear a beautiful piece of music , or see something beautiful , or get aroused by someone they love ?
+ - Gold: DESC
+ - Pred: DESC
+
+How did the war of 1812 affect Delaware ?
+ - Gold: DESC
+ - Pred: DESC
+
+In what year was Gandhi assassinated ?
+ - Gold: NUM
+ - Pred: NUM
+
+What was the name of the peace agreement imposed on Germany after World War I ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How was Teddy Roosevelt related to FDR ?
+ - Gold: DESC
+ - Pred: DESC
+
+What animal migrates the farthest ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What food can I use to catch a possum ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the largest island in the West Indies ?
+ - Gold: LOC
+ - Pred: LOC
+
+How long do hermit crabs live ?
+ - Gold: NUM
+ - Pred: NUM
+
+What tennis term is said to come from the French word for egg ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What do the 12 days of Christmas mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+How come light bulbs go out ?
+ - Gold: DESC
+ - Pred: DESC
+
+How far out is the universe ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is a fear of crystals or glass ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What film had Bette Davis creating a scandal by wearing a daring red gown to a society ball ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many bones are there in the human hand ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is hydrogen ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is recruitment interview technique ?
+ - Gold: DESC
+ - Pred: DESC
+
+What New Hampshire hamlet rises early to vote first in U.S. presidential elections ?
+ - Gold: LOC
+ - Pred: LOC
+
+How do birds have sex ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many horses are there on a polo team ?
+ - Gold: NUM
+ - Pred: NUM
+
+What new year is celebrated on February 16th ?
+ - Gold: ENTY
+ - Pred: NUM
+ -> MISMATCH!
+
+What are the medical purposes of `` clitoridectomy '' ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is one of the languages of the Sioux ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 1964 film introduced the song My Kind of Town ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does the term `` spaghetti western '' mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What famous male vocalist has the same name as the composer of the opera Hansel and Gretel ?
+ - Gold: HUM
+ - Pred: HUM
+
+When did they canonize the Bible ?
+ - Gold: NUM
+ - Pred: NUM
+
+On what day were John F and Jackie Kennedy married ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who are the nomadic hunting and gathering tribe of the Kalahari Desert in Africa ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the name of the pop singer whose song became the theme song for a brand of catsup ?
+ - Gold: HUM
+ - Pred: HUM
+
+What did the Congress of Vienna establish ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who portrayed Carl Bernstein in All the President 's Men ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was Tiny Tim 's father ?
+ - Gold: HUM
+ - Pred: HUM
+
+What was the first English play written exclusively for children ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How is digital audio used ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is AFS ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What French leader sold Louisiana to the United States ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is Java ?
+ - Gold: DESC
+ - Pred: DESC
+
+What constellation represents a hunter with club and shield ?
+ - Gold: LOC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What made Jane Goodall famous ?
+ - Gold: DESC
+ - Pred: DESC
+
+What Russian seaport has a name meaning `` Lord of the East '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many calories are there in soy sauce ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the largest county in size in Massachusetts ?
+ - Gold: LOC
+ - Pred: LOC
+
+What mythical figure carries an hourglass and a scythe ?
+ - Gold: HUM
+ - Pred: HUM
+
+How do you throw a housewarming party ?
+ - Gold: DESC
+ - Pred: DESC
+
+What famous British actor lost his voice after an operation in 1966 ?
+ - Gold: HUM
+ - Pred: HUM
+
+What does the term 3 mean to a newspaper editor ?
+ - Gold: DESC
+ - Pred: DESC
+
+What President hit the jogging paths to enhance his athletic image and , sporting No. 39 , almost collapsed during the road race ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the residents of the island of Lesbos called ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is limbo ?
+ - Gold: DESC
+ - Pred: DESC
+
+What apostle is Taylor Caldwell 's Great Lion of God ?
+ - Gold: HUM
+ - Pred: HUM
+
+What anesthetic did Queen Victoria allow to be used for the birth of her seventh child , in 1853 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Which one of the Great Lakes is entirely within U.S. territory ?
+ - Gold: LOC
+ - Pred: LOC
+
+What company sells the most greeting cards ?
+ - Gold: HUM
+ - Pred: HUM
+
+In which sport is there a `` scrum '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What nationality is Pope John Paul II ?
+ - Gold: LOC
+ - Pred: LOC
+
+How did the Great Depression affect Japan 's history ?
+ - Gold: DESC
+ - Pred: DESC
+
+Which Rockefeller was sometimes called `` JDR3 '' ?
+ - Gold: HUM
+ - Pred: ENTY
+ -> MISMATCH!
+
+How does salt melt ice and snow ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does laser stand for ?
+ - Gold: DESC
+ - Pred: ABBR
+ -> MISMATCH!
+
+How far away is the moon ?
+ - Gold: NUM
+ - Pred: NUM
+
+What country did the Romans call Hibernia ?
+ - Gold: LOC
+ - Pred: LOC
+
+What did Tristan come back as ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What country will hit the year 2 first ?
+ - Gold: LOC
+ - Pred: LOC
+
+What does JESSICA mean ?
+ - Gold: ABBR
+ - Pred: DESC
+ -> MISMATCH!
+
+How many major Nazi leaders went on trial after the war at Nuremberg ?
+ - Gold: NUM
+ - Pred: NUM
+
+What were the first words spoken on a film sound track ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+Why does sound travel quicker through water than air ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a caul ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who is reputed to be the greatest maker of violins ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was the first jockey to ride two Triple Crown winners ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many islands make up Antigua ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is splatterpunk ?
+ - Gold: DESC
+ - Pred: DESC
+
+What movie has made the most money ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the name of the largest city in Chile , South America ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many visitors go to the Vatican each year ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is a cake of soap ?
+ - Gold: DESC
+ - Pred: DESC
+
+In the movie Groundshog Day what is the name of the character played by Andie MacDowell ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the top ten all-time money making NFL teams ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where can I read about Chiang Kai-shek ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where does tuberculosis come from ?
+ - Gold: LOC
+ - Pred: DESC
+ -> MISMATCH!
+
+What is an urban legend ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many Russians have landed on the moon ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who shared a New York City apartment with Roger Maris the year he hit 61 home runs ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the main application of sodium hydrosulfite ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What are the components of polyester ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How can I get my product licensed by the NBA ?
+ - Gold: DESC
+ - Pred: DESC
+
+How do you calculate the change in enthalpy of a chemical reaction ?
+ - Gold: DESC
+ - Pred: DESC
+
+What baseball player was known as Charley Hustle ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who was Red Grange ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the most common causes of death in the U.S. ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where can I find a picture of a Blue Meanie ?
+ - Gold: LOC
+ - Pred: LOC
+
+What university fired Angela Davis ?
+ - Gold: HUM
+ - Pred: HUM
+
+What U.S. state does the Continental Divide leave to enter Canada ?
+ - Gold: LOC
+ - Pred: LOC
+
+What 's the name of the Wilkes plantation in Gone with the Wind ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the term for someone who hates mankind ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What college did Dikembe Mutombo play basketball for ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where are the Austerlitz and Victor Hugo subway stops ?
+ - Gold: LOC
+ - Pred: LOC
+
+What Tom Wolfe book is about the Mercury astronauts ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many points is a disk in the center hole worth in Crokinole ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does Final Four refer to in the sports world ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Why is hockey so violent ?
+ - Gold: DESC
+ - Pred: DESC
+
+How does the car in `` Christine '' become possessed ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is a fear of trees ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many dollars a day did Arthur Frommer say you could get by on in Europe in 1968 ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are the two cities in Dicken 's `` A Tale of Two Cities '' ?
+ - Gold: LOC
+ - Pred: LOC
+
+What does a red flag mean in auto racing ?
+ - Gold: DESC
+ - Pred: DESC
+
+What color is most often used to symbolize truth ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Stuart Hamblen is considered to be the first singing cowboy of what ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the term for the sum of all genetic material in a given organism ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What bestselling modern poet was the co-founder of the famous City Lights Bookshop in San Francisco ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the languages spoken by the natives in Afghanistan ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the origin of Boxing Day ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who was the first Russian astronaut to walk in space ?
+ - Gold: HUM
+ - Pred: HUM
+
+By how much will the California state gas tax rise by the year 2000 ?
+ - Gold: NUM
+ - Pred: NUM
+
+Rotary engines were manufactured by which company ?
+ - Gold: HUM
+ - Pred: HUM
+
+What does verdandi mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What book was F. Scott Fitzgerald working on when he died in Hollywood in 194 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What joins white wine to put the spritz in a Spritzer ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the top five oil-producing countries in the world ?
+ - Gold: LOC
+ - Pred: LOC
+
+Why do oceans contain salt water instead of fresh water ?
+ - Gold: DESC
+ - Pred: DESC
+
+What was the real name of writer Ross Macdonald , creator of the hero Lew Archer ?
+ - Gold: HUM
+ - Pred: HUM
+
+What spider makes a superb pet , even said to recognize its master ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where could I go to take a ride on a steam locomotive ?
+ - Gold: LOC
+ - Pred: LOC
+
+When not adventuring on Rann , what does Adam Strange call his profession ?
+ - Gold: HUM
+ - Pred: HUM
+
+What occupation has the highest divorce rate ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the best-selling book of all time ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the first six words of Dickens 's A Tale of Two Cities ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What country lies directly south of Detroit ?
+ - Gold: LOC
+ - Pred: LOC
+
+Why was Henry Ford 's first automobile calleda Model T & his second type of automobile , introduced in 1928 , called a Model A ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does the Peugeot company manufacture ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What football coach 's story was told in the movie Run to Daylight ?
+ - Gold: HUM
+ - Pred: HUM
+
+What does Lloyd 's Lutine Bell announce ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What does a farrier put shoes on ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is another name for nearsightedness ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What U.S. President was the first to breed mules ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the difference between molecules and compounds ?
+ - Gold: DESC
+ - Pred: DESC
+
+When did Thatcher become prime minister ?
+ - Gold: NUM
+ - Pred: NUM
+
+How many logarithmic scales are there on a slide rule ?
+ - Gold: NUM
+ - Pred: NUM
+
+What kind of sports did they play in the years 1642-1649 , the English Civil War time ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many people die from snakebite poisoning in the U.S. per year ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was International Olympic Committee chairman at the 1936 Summer Games ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many American soldiers remain unaccounted from the Vietnam war ?
+ - Gold: NUM
+ - Pred: NUM
+
+What American sergeant lost both of his hands in combat during World War II and then went on to act in a single movie for which he won two Oscars ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the main blood vessels ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What does `` saute '' mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+Which member of the Micronauts spent 1 years traveling the Microverse in the Marvel comics ?
+ - Gold: HUM
+ - Pred: HUM
+
+What doctor claimed in a 1946 book : `` There is no such thing as a bad boy '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who is William Wordsworth ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who is the prime minister in Norway ?
+ - Gold: HUM
+ - Pred: HUM
+
+What mountain range extends from the Gulf of St. Lawrence to Alabama ?
+ - Gold: LOC
+ - Pred: LOC
+
+How many types of lemurs are there ?
+ - Gold: NUM
+ - Pred: NUM
+
+What 's the second-most-used murder weapon in the U.S. ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many claws has a lobster called a pistol lost ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who found Hawaii ?
+ - Gold: HUM
+ - Pred: HUM
+
+What kind of mammal is a colt ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What was the name of Sergeant Preston of the Yukon 's lead dog ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the capital of Monaco ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who makes the `` Die Hard '' car battery ?
+ - Gold: HUM
+ - Pred: HUM
+
+How long does it take to travel from Tokyo to Niigata ?
+ - Gold: NUM
+ - Pred: NUM
+
+How does a bill become law ?
+ - Gold: DESC
+ - Pred: DESC
+
+When did Lucelly Garcia , a former ambassador of Columbia to Honduras , die ?
+ - Gold: NUM
+ - Pred: NUM
+
+What two New York Yankee pitchers swapped wives and families ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are dingoes ?
+ - Gold: DESC
+ - Pred: DESC
+
+What southwestern state is dubbed The Silver State ?
+ - Gold: LOC
+ - Pred: LOC
+
+Where do quality drinks begin ?
+ - Gold: LOC
+ - Pred: LOC
+
+What kind of substance is dextropropoxyphen napsylate ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How does James Bond like his martinis ?
+ - Gold: DESC
+ - Pred: DESC
+
+What bay divides Maryland 's Eastern and Western Shores ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who discovered imaginary numbers ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the airport code for Los Angeles International ?
+ - Gold: NUM
+ - Pred: NUM
+
+What was Dwight Eisenhower 's favorite card game ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who is Westview High 's band director in Funky Winkerbean ?
+ - Gold: HUM
+ - Pred: HUM
+
+How do you dunk ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is Microsoft 's corporate headquarters located ?
+ - Gold: LOC
+ - Pred: LOC
+
+How much can a person be fined for having a dog on a beach ?
+ - Gold: NUM
+ - Pred: NUM
+
+What Asian gulf were the destroyers Maddox and C Turner Joy shot up in ?
+ - Gold: LOC
+ - Pred: LOC
+
+What relative of Leo Tolstoy translated War and Peace eight times ?
+ - Gold: HUM
+ - Pred: HUM
+
+What are the four railways in Monopoly ?
+ - Gold: HUM
+ - Pred: ENTY
+ -> MISMATCH!
+
+Where was Pythagoras born ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the capital of Italy ?
+ - Gold: LOC
+ - Pred: LOC
+
+How do you get a pointsettia to turn red ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the population of Arcadia , Florida ?
+ - Gold: NUM
+ - Pred: NUM
+
+How many people live in cities ?
+ - Gold: NUM
+ - Pred: NUM
+
+What ocean surrounds the Madeira Islands ?
+ - Gold: LOC
+ - Pred: LOC
+
+What turns blue litmus paper red ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the largest city in Texas ?
+ - Gold: LOC
+ - Pred: LOC
+
+What future deer hunter portrayed Annie Hall 's neurotic brother , Duane ?
+ - Gold: HUM
+ - Pred: HUM
+
+What was the longest war in U.S. history ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many tiles did the Space Shuttle Columbia lose on its second flight ?
+ - Gold: NUM
+ - Pred: NUM
+
+What title did Shevardnadze have during the Soviet era ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is agent orange ?
+ - Gold: DESC
+ - Pred: DESC
+
+Where is McCarren Airport located ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who portrayed Field Marshal Erwin Rommel in The Desert Fox ?
+ - Gold: HUM
+ - Pred: HUM
+
+How long ago was the Roe vs. Wade decision by the Supreme Court ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who starred in the movie The War of the Worlds ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is a movie that Kevin Costner made about Sioux Indians ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the current immigration laws in US ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What was spawned the term `` MiG Alley '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What 's the most popular four-player game of all time ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Where did the name root beer come from ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many endangered species are there in the world ?
+ - Gold: NUM
+ - Pred: NUM
+
+Which large U.S. city had the highest murder rate for 1988 ?
+ - Gold: LOC
+ - Pred: LOC
+
+What format was the major competition of VHS ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What country was General Douglas McArthur in when he was recalled by President Truman ?
+ - Gold: LOC
+ - Pred: LOC
+
+What are the five most popular Usenet groups ?
+ - Gold: HUM
+ - Pred: ENTY
+ -> MISMATCH!
+
+What is the latitude and longitude of El Paso , Texas ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does the name Melissa mean ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the nature of snow and how is the formation of snow different from that of ice ?
+ - Gold: DESC
+ - Pred: DESC
+
+What kind of sports team is the Buffalo Sabres ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What are the factors leading to the high teen pregnancy rate in Spartanburg , South Carolina ?
+ - Gold: DESC
+ - Pred: DESC
+
+What does RCA stand for ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+What is form drag ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many events make up the decathlon ?
+ - Gold: NUM
+ - Pred: NUM
+
+How did the months of the year get there name ?
+ - Gold: DESC
+ - Pred: DESC
+
+When is the Jimmy Buffett concert coming to the E center in Camden NJ ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the weather like on the moon ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who was the 1st U.S. President ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many people died on South Carolina highways in 1998 ?
+ - Gold: NUM
+ - Pred: NUM
+
+What are some translations of the phrase `` Thank-you '' ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many people died in the Vietnam war ?
+ - Gold: NUM
+ - Pred: NUM
+
+Jackson Pollock was a native of what country ?
+ - Gold: LOC
+ - Pred: LOC
+
+How do I know how much money to save for retirement ?
+ - Gold: DESC
+ - Pred: DESC
+
+When was the Big Thompson flood ?
+ - Gold: NUM
+ - Pred: NUM
+
+What 's played at Wembley Stadium , London , every May ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?
+ - Gold: HUM
+ - Pred: HUM
+
+In Dana 's `` Two Years Before the Mast , '' what seafarers lived in an abandoned oven on the beach at San Diego ?
+ - Gold: HUM
+ - Pred: HUM
+
+What non-mechanical sport achieves the highest speeds ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who created Billy Pilgrim , a survivor of the Dresden firestorm ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who is the richest woman in the world ?
+ - Gold: HUM
+ - Pred: HUM
+
+Why is Chicago named Chicago ?
+ - Gold: DESC
+ - Pred: DESC
+
+What radio , TV and movie character did Jackie Gleason and William Bendix play ?
+ - Gold: HUM
+ - Pred: HUM
+
+Name the U.S. Senate majority leader and the Speaker of the House .
+ - Gold: HUM
+ - Pred: HUM
+
+What name did football 's New York Titans adopt in 1963 ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the oldest website on the Internet ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is a fear of speaking ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who was the prophet of the Jewish people ?
+ - Gold: HUM
+ - Pred: HUM
+
+Where are zebras most likely found ?
+ - Gold: LOC
+ - Pred: LOC
+
+What is the best place to live in the world , considering climate , civilization ?
+ - Gold: LOC
+ - Pred: LOC
+
+What 's the difference between carelessness and carefreeness ?
+ - Gold: DESC
+ - Pred: DESC
+
+What is the Islamic counterpart to the Red Cross ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the mean income of the top 10% , top 5% , and top 1% ?
+ - Gold: NUM
+ - Pred: NUM
+
+What is the world population as of today ?
+ - Gold: NUM
+ - Pred: NUM
+
+Name the Islamic counterpart to the Red Cross .
+ - Gold: ENTY
+ - Pred: ENTY
+
+What causes a person to have constantly sweaty hands and feet ?
+ - Gold: DESC
+ - Pred: DESC
+
+What actor was the first man to appear on the cover of McCall 's ?
+ - Gold: HUM
+ - Pred: HUM
+
+What TV series features the adventures of a married couple named Jonathan and Jennifer ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Who tramped through Florida looking for the Fountain of Youth ?
+ - Gold: HUM
+ - Pred: HUM
+
+What card game can feature dealer 's choice ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is a fear of failure ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+Which comic strip was never turned into a Broadway musical ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What soft drink held a national flavor poll in 1967 ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What is the capital of California ?
+ - Gold: LOC
+ - Pred: LOC
+
+What kind of greeting is appropriate to send on Yom Kippur ?
+ - Gold: DESC
+ - Pred: ENTY
+ -> MISMATCH!
+
+What is the name of Jamiroquai new album ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How were the days of the week named ?
+ - Gold: DESC
+ - Pred: DESC
+
+Who wrote The Secret Life of Walter Mitty ?
+ - Gold: HUM
+ - Pred: HUM
+
+How much calcium should an adult female have daily ?
+ - Gold: NUM
+ - Pred: NUM
+
+Who was Maria Theresa ?
+ - Gold: HUM
+ - Pred: HUM
+
+Why do you say `` God bless you '' when people sneeze ?
+ - Gold: DESC
+ - Pred: DESC
+
+Why does a wheel , e.g. a car tire , appear to spin in the opposite direction as it slows down ?
+ - Gold: DESC
+ - Pred: DESC
+
+How many miles is it from NY to Austria ?
+ - Gold: NUM
+ - Pred: NUM
+
+What corporation does Madonna advertise for ?
+ - Gold: HUM
+ - Pred: HUM
+
+What king is satirized in the line : `` The King was in the countinghouse , counting all his money '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+How can I enforce new rules to a group of youngsters who have been allowed to do as they please .
+ - Gold: DESC
+ - Pred: DESC
+
+What character in The Beverly Hillbillies has the given names Daisy Moses ?
+ - Gold: HUM
+ - Pred: HUM
+
+When does menstruation begin ?
+ - Gold: NUM
+ - Pred: NUM
+
+What does a man suffering from diphallic terata have ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What sport can a free-legged pacer compete in ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What President had never held an elected office until he was elected to the White House ?
+ - Gold: HUM
+ - Pred: HUM
+
+What corporation does Madonna advertise for ?
+ - Gold: HUM
+ - Pred: HUM
+
+How many people visit the Pope each month ?
+ - Gold: NUM
+ - Pred: NUM
+
+What creative genius said : `` Everything comes to him who hustles while he waits '' ?
+ - Gold: HUM
+ - Pred: HUM
+
+What is the acronym for the rating system for air conditioner efficiency ?
+ - Gold: ABBR
+ - Pred: ABBR
+
+Who was Ben Casey 's boss ?
+ - Gold: HUM
+ - Pred: HUM
+
+When was cigarette advertising banned on television and radio ?
+ - Gold: NUM
+ - Pred: NUM
+
+What Caribbean cult did Marcus Garvey originate ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+What police force did Mack Sennett create ?
+ - Gold: HUM
+ - Pred: HUM
+
+How do I get a complete list of all the people that are living with the last name Kilvington ?
+ - Gold: DESC
+ - Pred: DESC
+
+How do you tell somebody you like them ?
+ - Gold: DESC
+ - Pred: DESC
+
+What colorful sea 's region does Greek legend say the Amazons lived near ?
+ - Gold: LOC
+ - Pred: LOC
+
+Who was the only person convicted in the My Lai Massacre ?
+ - Gold: HUM
+ - Pred: HUM
+
+What do Hasidic Jews refrain from while dating ?
+ - Gold: ENTY
+ - Pred: DESC
+ -> MISMATCH!
+
+What part did Benjamin Franklin play in the development of the newspaper in America ?
+ - Gold: HUM
+ - Pred: HUM
+
+Who is the prime minister of Australia ?
+ - Gold: HUM
+ - Pred: HUM
+
+What must be exceeded to produce a sonic boom ?
+ - Gold: ENTY
+ - Pred: ENTY
+
+How many John Deere tractors have been manufactured ?
+ - Gold: NUM
+ - Pred: NUM
+
